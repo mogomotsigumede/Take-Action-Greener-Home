@@ -1,7 +1,8 @@
 # Take-Action-Greener-Home
 A safe welcoming environment for the people. 
 
-![image](https://user-images.githubusercontent.com/87011258/153176019-d7c812a6-44e7-45ca-990e-7937278f0362.png)
+![image](https://user-images.githubusercontent.com/87011258/153180568-43bf599e-f23f-4476-a55e-5ca47cf36b0f.png)
+
 
 ## Development Progress 
 The part that is a high risk is taking no action to the high speed of what has to be done to the Earth Structure on both side of the 
